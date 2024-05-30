@@ -1,0 +1,32 @@
+17:59:24.593 [main] INFO  api.test.UserTests - **************Creating User*****************
+17:59:32.826 [main] INFO  api.test.UserTests - **************User is created*****************
+17:59:32.874 [main] INFO  api.test.UserTests - **************Reading User*****************
+17:59:34.478 [main] INFO  api.test.UserTests - **************User is displayed*****************
+17:59:34.487 [main] INFO  api.test.UserTests - **************Updating User*****************
+17:59:37.397 [main] INFO  api.test.UserTests - **************User is updated*****************
+17:59:37.406 [main] INFO  api.test.UserTests - **************Deleting User*****************
+17:59:38.934 [main] INFO  api.test.UserTests - **************User is deleted*****************
+18:49:52.779 [main] INFO  api.test.UserTestsWithRoutes - **************Creating User*****************
+18:49:59.731 [main] INFO  api.test.UserTestsWithRoutes - **************User is created*****************
+18:49:59.781 [main] INFO  api.test.UserTestsWithRoutes - **************Reading User*****************
+18:50:01.310 [main] INFO  api.test.UserTestsWithRoutes - **************User is displayed*****************
+18:50:01.317 [main] INFO  api.test.UserTestsWithRoutes - **************Updating User*****************
+18:50:04.332 [main] INFO  api.test.UserTestsWithRoutes - **************User is updated*****************
+18:50:04.337 [main] INFO  api.test.UserTestsWithRoutes - **************Deleting User*****************
+18:50:05.738 [main] INFO  api.test.UserTestsWithRoutes - **************User is deleted*****************
+19:45:34.683 [main] INFO  api.test.UserTests - **************Creating User*****************
+19:45:36.172 [main] INFO  api.test.UserTests - **************User is created*****************
+19:45:36.175 [main] INFO  api.test.UserTests - **************Reading User*****************
+19:45:37.624 [main] INFO  api.test.UserTests - **************User is displayed*****************
+19:45:37.629 [main] INFO  api.test.UserTests - **************Updating User*****************
+19:45:40.515 [main] INFO  api.test.UserTests - **************User is updated*****************
+19:45:40.517 [main] INFO  api.test.UserTests - **************Deleting User*****************
+19:45:41.881 [main] INFO  api.test.UserTests - **************User is deleted*****************
+20:02:52.978 [main] INFO  api.test.UserTests - **************Creating User*****************
+20:02:54.580 [main] INFO  api.test.UserTests - **************User is created*****************
+20:02:54.593 [main] INFO  api.test.UserTests - **************Reading User*****************
+20:02:55.960 [main] INFO  api.test.UserTests - **************User is displayed*****************
+20:02:55.963 [main] INFO  api.test.UserTests - **************Updating User*****************
+20:02:58.934 [main] INFO  api.test.UserTests - **************User is updated*****************
+20:02:58.940 [main] INFO  api.test.UserTests - **************Deleting User*****************
+20:03:00.327 [main] INFO  api.test.UserTests - **************User is deleted*****************
